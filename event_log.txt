@@ -1,0 +1,7 @@
+Hello world 
+This is the event description: Email 
+ and the time is 2025-11-28 14:26:56.199012Hello world 
+This is the event description: hello 
+ and the time is 2025-11-28 14:30:40.567563Hello world 
+GRADUATION ------> 2025-11-29 01:20:49.708860Hello world 
+GRADUATION ------> 2025-29-11/29/25 01:29:43
